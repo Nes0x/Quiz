@@ -1,0 +1,81 @@
+{
+  "time": 182,
+  "questions": [
+    {
+      "question": "Kiedy powstało LKXV?",
+      "answers": [
+        "29 Czerwca 2021",
+        "22 Czerwca 2021",
+        "21 Maja 2021",
+        "26 Lipca 2021"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Czy solindek ma dziewczyne?",
+      "answers": [
+        "Tak",
+        "Nie"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "90 * 21 daje",
+      "answers": [
+        "1890",
+        "1850",
+        "1790"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Czy kłapouch to zwierzę?",
+      "answers": [
+        "Tak",
+        "Nie"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Czy solindek gra w klubie piłkarskim ale nie umie grać?",
+      "answers": [
+        "Tak",
+        "Nie"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Czy Nes0x jest dominatorem?",
+      "answers": [
+        "Tak",
+        "Nie"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Czy done umie kopnąć prosto piłke?",
+      "answers": [
+        "Tak",
+        "Nie"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Czy pan na N był w Francji?",
+      "answers": [
+        "Tak",
+        "Nie"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "105 / 5 daje",
+      "answers": [
+        "52.5",
+        "53.5",
+        "51.5"
+      ],
+      "correct": 0
+    }
+  ]
+}
